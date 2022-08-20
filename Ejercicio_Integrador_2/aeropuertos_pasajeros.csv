@@ -1,0 +1,66 @@
+Estado,Ciudad,Codigo_IATA,Pasajeros,Vuelos_Sinaloa
+Aguascalientes,Aguascalientes,AGU,258,1
+Baja California,Isla Cedros,CDI,1808,4
+Baja California,Ensenada,ESE,2365,2
+Baja California,Mexicali,MXL,4236,3
+Baja California,San Felipe,SFH,2030,3
+Baja California,Tijuana,TIJ,3501,3
+Baja California Sur,La Paz,LAP,2628,4
+Baja California Sur,Loreto,LTO,2963,1
+Baja California Sur,Los Cabos,SJD,3520,2
+Campeche,Cd. Del Carmen,CME,4054,3
+Chiapas,Comitan,CJT,3914,1
+Chiapas,Palenque,PQM,3215,1
+Chiapas,Tapachula,TAP,3316,4
+Chiapas,Tuxtla Gutierrez,TGZ,2091,4
+Chihuahua,Cd. Juarez,CJS,3052,4
+Chihuahua,Chihuahua,CUU,759,2
+Chihuahua,Nuevo Casas Grandes,NCG,3019,3
+Coahuila,Ciudad Acuña,ACN,2219,2
+Coahuila,Saltillo,SLW,3783,1
+Colima,Colima,CLQ,4166,3
+Colima,Manzanillo,ZLO,3148,2
+Colima,Manzanillo,MEX,342,3
+Cd. de Mexico,Cd. De Mexico,DGO,1137,1
+Durango,Durango,TLC,2018,1
+Estado de Mexico,Toluca,BJX,3824,4
+Guanajuato,Leon,ACA,120,1
+Guerrero,Acapulco,ZIH,3196,3
+Guerrero,Ixtapa/Zihuatanejo,PCA,3749,2
+Hidalgo,Pachuca,GDL,3824,3
+Jalisco,Guadalajara,LOM,3020,3
+Jalisco,Lagos de Moreno,PVR,2832,1
+Jalisco,Puerto Vallarta,JJC,827,2
+Mexico,Atizapan,AZG,919,3
+Michoacan,Apatzingan,UPN,4281,4
+Michoacan,Uruapan,ZMM,447,4
+Michoacan,Zamora,CVJ,2217,3
+Morelos,Cuernavaca,TNY,1428,2
+Nayarit,Tepic,TPQ,2942,4
+Nayarit,Tepic,MTY,1474,1
+Nuevo Leon,Monterrey,HUX,3329,4
+Oaxaca,Huatulco,IZT,2268,4
+Oaxaca,Oaxaca,PXM,3549,2
+Oaxaca,Puerto Escondido,SCX,862,3
+Puebla,Tehuacan,QRO,2369,2
+Queretaro,Queretaro,CTM,4029,3
+Quintana Roo,Chetumal,ISJ,1953,4
+Quintana Roo,Isla Mujeres,TUY,584,3
+San Luis Potosi,San Luis Potosi,TSL,680,2
+San Luis Potosi,Tamuin,CNA,1801,1
+Sonora,Cananea,CUL,316,3
+Sinaloa,Culiacan,LMM,0,0
+Sinaloa,Los Mochis,MZT,0,0
+Sinaloa,Mazatlan,CEN,0,0
+Sonora,Cd. Obregon,GYM,946,4
+Sonora,Guaymas,HMO,3061,3
+Sonora,Hermosillo,NOG,231,1
+Sonora,Nogales,CPX,3321,3
+Tabasco,Villahermosa,REX,920,4
+Tamaulipas,Reynosa,TAM,4366,4
+Tamaulipas,Tampico,JAL,3336,1
+Veracruz,Veracruz,CZA,3314,2
+Yucatan,ChichenItza,MID,2114,4
+Yucatan,Merida,TZM,1961,4
+,,,143952,63
+,,,2284.952381,2284.952381

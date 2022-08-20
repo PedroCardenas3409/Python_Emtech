@@ -1,0 +1,21 @@
+1. Conocer los 5 aeropuertos que tienen mayor cantidad de pasajeros que desean viajar a Sinaloa: 
+ 
+    1.- Aeropuerto en la Ciudad de Sonora del estado de Cd. Obregon. 
+    2.- Aeropuerto en la Ciudad de Tabasco del estado de Villahermosa. 
+    3.- Aeropuerto en la Ciudad de Mexico del estado de Atizapan. 
+    4.- Aeropuerto en la Ciudad de Oaxaca del estado de Puerto Escondido. 
+    5.- Aeropuerto en la Ciudad de Jalisco del estado de Puerto Vallarta. 
+     Promedio de los pasajeros de los 5 aeropuertos: 894.8 
+
+2. El promedio de pasajeros considerando todos los aeropuertos. 
+
+    El promedio de todos los pasajeros de los aeropuertos es de: 2284.9523809523807
+
+3. Los 5 aeropuertos con menos vuelos hacia Sinaloa. (Quitando a los de Sinaloa) 
+
+    1.- Aeropuerto en la Ciudad de Aguascalientes del estado de Aguascalientes. 
+    2.- Aeropuerto en la Ciudad de Baja California Sur del estado de Loreto. 
+    3.- Aeropuerto en la Ciudad de Chiapas del estado de Comitan. 
+    4.- Aeropuerto en la Ciudad de Chiapas del estado de Palenque. 
+    5.- Aeropuerto en la Ciudad de Coahuila del estado de Saltillo. 
+     Promedio de los pasajeros de los 5 aeropuertos: 2826.6 
